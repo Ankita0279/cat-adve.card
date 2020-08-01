@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Animal Trading Cards</title>
+	<link href="https://fonts.googleapis.com/css?family=Courgette|Gloria+Hallelujah|Josefin+Slab" rel="stylesheet">
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+	<!-- Animal Card -->
+	<div class="animal-card">
+
+		<!-- Name -->
+		<h3>BOMBAY CAT</h3>
+
+		<!-- Image -->
+		<img src="cat.jpg" alt="Friendly cat">
+
+		<div class="inner">
+
+			<!-- Interesting Facts -->
+			<p class="sub-title">These unique cats can make for an ideal pet. They look quite similar to a miniature form of a black panther.</p>
+
+			<!-- List of information -->
+			<ul>
+				<li><span>Breed: </span>Asian Breed</li>
+				<li><span>Gender: </span>Not sure</li>
+				<li><span>Emojy: </span>Friendly</li>
+				<li><span>Color: </span>Black</li>
+			</ul>
+
+			<!-- Description -->
+			<p class="description">They have captivating, striking golden eyes and short and shiny black hair. They have a muscular build with a round head which is slender on the sides.<br>
+				They are eager to play and learn new tricks. They can easily adapt to varying lifestyles and environments. They have a calm demeanour and can also be trained to walk on a leash. ♥
+			</p>
+
+		</div>
+	</div>
+
+</body>
+</html>
